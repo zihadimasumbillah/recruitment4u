@@ -9,10 +9,10 @@ Recruitment4u is a specialized employment agency focused on connecting qualified
 ## Screenshots
 
 ### Desktop View
-![Desktop View](/public/images/Recruitment4u-mobile.jpeg)
+![Desktop View](/public/images/Recruitment4u.jpeg)
 
 ### Mobile View
-![Mobile View](/public/images/Recruitment4u.jpeg)
+![Mobile View](/public/images/Recruitment4u-mobile.jpeg)
 
 ## Features
 
