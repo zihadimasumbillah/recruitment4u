@@ -10,7 +10,7 @@ import {
 import { motion, AnimatePresence } from "framer-motion";
 import { useEffect, useState, useRef, useCallback, useMemo } from "react";
 import { cn } from "@/lib/utils";
-import AnimatedSvgIcon from "@/animation/AnimatedSvgIcon";
+import AnimatedSvgIcon from "@/components/animation/AnimatedSvgIcon";
 const iconPaths = {
   users: "/icons/UserSpeakIcon.svg",
   tools: "/icons/MaintenanceIcon.svg",

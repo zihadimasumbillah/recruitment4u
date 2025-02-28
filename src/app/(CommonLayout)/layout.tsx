@@ -9,7 +9,7 @@ import Navbar from "@/components/common/Navbar";
 import { cn } from "@/lib/utils";
 import ArrowUpButton from "@/components/common/ArrowUpButton";
 import Footer from "@/components/common/Footer";
-import LoadingScreen from "@/animation/LoadingScreen";
+import LoadingScreen from "@/components/animation/LoadingScreen";
 
 const CustomCursor = dynamic(() => import('@/components/common/CustomCursor'), {
   ssr: false

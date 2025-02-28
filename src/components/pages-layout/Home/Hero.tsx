@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { cn } from "@/lib/utils";
-import { ImageFrameBorder } from "@/animation/imageframeborder";
+import { ImageFrameBorder } from "@/components/animation/imageframeborder";
 
 const Hero = () => {
   return (
