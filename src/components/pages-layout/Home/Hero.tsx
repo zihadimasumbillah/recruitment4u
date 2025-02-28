@@ -7,10 +7,10 @@ const Hero = () => {
   return (
     <section className={cn(
       "relative flex items-center overflow-hidden",
-      "py-8 lg:py-10 xl:py-32", 
+      "py-12 sm:py-16 md:py-20 lg:py-24 xl:py-32", 
       "bg-primary w-screen",
       "left-[50%] right-[50%] mx-[-50vw] px-0",
-      "min-h-[60vh] md:min-h-[80vh] lg:min-h-[85vh] xl:min-h-[100vh]", 
+      "min-h-[85vh] md:min-h-[90vh] lg:min-h-[85vh] xl:min-h-[100vh]", 
       "-mt-20" 
     )}>
       <div className="container mx-auto px-4 pt-12 sm:pt-16 md:pt-20 lg:pt-24 w-full"> 
