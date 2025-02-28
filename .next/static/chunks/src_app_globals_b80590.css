@@ -894,6 +894,14 @@ body {
   min-height: 100vh;
 }
 
+.min-h-\[90vh\] {
+  min-height: 90vh;
+}
+
+.min-h-\[100vh\] {
+  min-height: 100vh;
+}
+
 .w-1 {
   width: .25rem;
 }
@@ -3129,6 +3137,10 @@ body {
 
   .lg\:min-h-\[85vh\] {
     min-height: 85vh;
+  }
+
+  .lg\:min-h-\[90vh\] {
+    min-height: 90vh;
   }
 
   .lg\:w-\[220px\] {
