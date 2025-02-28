@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///Users/masumbillahzihadi/PROJECTS/hunting-job/src/app/%28CommonLayout%29/contact/layout.tsx"],"sourcesContent":["import { Metadata } from 'next';\n\nexport const metadata: Metadata = {\n  title: 'Contact | Recruitment4u',\n  description: 'Contact us for any inquiries or questions you may have. We will get back to you as soon as possible.',\n};\n\nexport default function CompanyLayout({\n  children,\n}: {\n  children: React.ReactNode;\n}) {\n  return children;\n}"],"names":[],"mappings":";;;;AAEO,MAAM,WAAqB;IAChC,OAAO;IACP,aAAa;AACf;AAEe,SAAS,cAAc,EACpC,QAAQ,EAGT;IACC,OAAO;AACT"}},
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

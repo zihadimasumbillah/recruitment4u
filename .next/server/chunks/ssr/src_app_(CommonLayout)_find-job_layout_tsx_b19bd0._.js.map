@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///Users/masumbillahzihadi/PROJECTS/hunting-job/src/app/%28CommonLayout%29/find-job/layout.tsx"],"sourcesContent":["import { Metadata } from 'next';\n\nexport const metadata: Metadata = {\n  title: 'For Jobs | Recruitment4u',\n  description: 'Find the right job for you. Search through our job listings and apply to the ones that interest you.',\n};\n\nexport default function CompanyLayout({\n  children,\n}: {\n  children: React.ReactNode;\n}) {\n  return children;\n}"],"names":[],"mappings":";;;;AAEO,MAAM,WAAqB;IAChC,OAAO;IACP,aAAa;AACf;AAEe,SAAS,cAAc,EACpC,QAAQ,EAGT;IACC,OAAO;AACT"}},
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
