@@ -1,6 +1,0 @@
-{
-  "/(CommonLayout)/page": "app/(CommonLayout)/page.js",
-  "/(CommonLayout)/for-companies/page": "app/(CommonLayout)/for-companies/page.js",
-  "/(CommonLayout)/find-job/page": "app/(CommonLayout)/find-job/page.js",
-  "/(CommonLayout)/contact/page": "app/(CommonLayout)/contact/page.js"
-}
